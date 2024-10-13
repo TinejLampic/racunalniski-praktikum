@@ -23,7 +23,7 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 <!-- konec bloka z izvorno kodo -->
 
 <!-- 2. nivojski razdelek -->
-## Domača naloga
+## Domača naloga 
 
 <!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
