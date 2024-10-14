@@ -6,24 +6,24 @@
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
-- *Kopiraj* označeno v odložišče: <kbd>Ctrl+C (**C**opy)</kbd>
-- *Izreži* označeno v odložišče: <kbd>Ctrl+X</kbd>
-- *Prilepi* vsebino odložišča: <kbd>Ctrl+V</kbd>
-- Preklapljanje med okni: <kbd>Alt+tab</kbd>
-- Odpiranje palete ukazov v VSCode: <kbd>Ctrl+Shift+P</kbd>
-- Izberi vse: <kbd>Ctrl+A</kbd>
+- *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
+- *Izreži* označeno v odložišče: Ctrl+X
+- *Prilepi* vsebino odložišča: Ctrl+V
+- Preklapljanje med okni: Alt+tab
+- Odpiranje palete ukazov v VSCode: Ctrl+Shift+P
+- Izberi vse: Ctrl+A
 
 <!-- 2. nivojski razdelek -->
-## Izvorna koda
+## Izvorna koda 
 
-Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
+Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 
 <!-- začetek bloka z izvorno kodo -->
-<kbd>Ctrl</kbd>
+`<kbd>Ctrl</kbd>`
 <!-- konec bloka z izvorno kodo -->
 
 <!-- 2. nivojski razdelek -->
-## Domača naloga
+## Domača naloga 
 
 <!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
@@ -36,7 +36,8 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
 
-1. [FMF učilnica](https://ucilnica.fmf.uni-lj.si/)
+1. [FMF učilnica]( https://ucilnica.fmf.uni-lj.si/)
 2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
-3. [Zapiski in vaje za Računalniški praktikum](http://katjabercic.github.io/racunalniski-praktikum)
+3. [Zapiski in vaje za Računalniški praktikum]( http://katjabercic.github.io/racunalniski-praktikum)
 4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
