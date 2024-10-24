@@ -56,7 +56,11 @@ h2 {margin-top: 2em;
 
 .slika p:last-child 
 {font-size: 0.8em;
+    margin-top: 0;
  }
+
+ a::before { 
+    content: "$ ";}
 
 
 
