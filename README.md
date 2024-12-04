@@ -3,6 +3,8 @@
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
+## Povezava na spletno stran
+https://github.com/TinejLampic/TinejLampic.github.io
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
