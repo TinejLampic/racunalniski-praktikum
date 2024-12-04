@@ -40,29 +40,34 @@
 	$$\begin{vmatrix}
 		1 &  & & & 1& & & & \\
 		&  2 & & & 2 & & & &    \\
-		& & & \ddots & & \vdots & & & &     \\
-		& & & & n-1 & n-1 & & & &     \\
-		1 & 2 & \cdots & n-1& n & n+1& n+2& \cdots  & & 2n      \\
-		& & & & & n+1 & n+1 & & &     \\
-		& & & & & n+2 & & n+2 & &     \\
-		& & & & & \vdots& & & \ddots &     \\
-		& & & & & 2n & & & & 2n     
+		&  & \ddots & & \vdots & & & &     \\
+		& &  & n-1 & n-1 & & & &     \\
+		1 & 2 & \cdots & n-1& n & n+1& n+2& \cdots   & 2n      \\
+		& & &  & n+1 & n+1 & & &     \\
+		& &  & & n+2 & & n+2 & &     \\
+		& & &  & \vdots& & & \ddots &     \\
+		& &  & & 2n & & & & 2n     
     \end{vmatrix}$$
 \end{frame}
 
 \begin{frame}{Grupe}
-	Naj bo
-	??
+	Naj bo 
+	\begin{align*}
+	G & = \{ z\in \mathbb{C};\; z = {2}^{k} (\cos(m\pi\sqrt{2})+ i \sin(m\pi\sqrt{2})), k, m \in \mathbb{Z}  \} \\
+	H & = \{ (x,y) \in {\mathbb{R}}^{2}; x,y \in \mathbb{Z} \}
+	\end{align*} 
 	\begin{enumerate}
 		\item
-			Pokaži, da je $G$ podgrupa v grupi ??
+			Pokaži, da je $G$ podgrupa v grupi $ (\mathbb{C}\backslash \{0\}, \cdot)$
 			neničelnih kompleksnih števil za običajno množenje.
 		\item
-			Pokaži, da je $H$ podgrupa v aditivni grupi ??
+			Pokaži, da je $H$ podgrupa v aditivni grupi $({\mathbb{R}}^{2}, +)$
 			ravninskih vektorjev za običajno seštevanje po komponentah.
 		\item
 			Pokaži, da je preslikava $f:H\to G$, podana s pravilom
-			??
+			$$
+			(x,y) \mapsto {2}^{x}(\cos(y\pi\sqrt{2})+i\sin(y\pi\sqrt{2}))
+			$$
 			izomorfizem grup $G$ in $H$.
 	\end{enumerate}
 \end{frame}
